@@ -1,211 +1,40 @@
 {
-  "name": "MySwap Hosted List",
-  "timestamp": "2021-03-27T23:57:10.982Z",
-  "version": {
-    "major": 0,
-    "minor": 0,
-    "patch": 19
-  },
-  "tags": {},
-  "logoURI": "https://www.myswap.vip/tokenLogMain/0xdcac52e001f5bd413aa6ea83956438f29098166b.png",
+  "name": "DSWAP",
+  "logoURI": "http://www.htlotto.xyz/swap/src/assets/svg/LTO.svg",
   "keywords": [
-    "MySwap",
-    "default"
+    "DSWAP",
+    "defi"
   ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "name": "OKB Token",
-      "address": "0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2",
-      "symbol": "OKB",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0xdf54b6c6195ea4d948d03bfd818d365cf175cfc2.png"
-    },{
-      "name": "MST Token",
-      "address": "0x408b1bf3a7096d3c32215efc5fdf56aa3b3a48f9",
-      "symbol": "MST",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x408b1bf3a7096d3c32215efc5fdf56aa3b3a48f9.png"
-    },{
-      "name": "KINEK Token",
-      "address": "0xc05760d75e7f5ad428a906674ce7c7c82d003d01",
-      "symbol": "KINEK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0xc05760d75e7f5ad428a906674ce7c7c82d003d01.png"
-    },{
-      "name": "DAIK Token",
-      "address": "0x21cde7e32a6caf4742d00d44b07279e7596d26b9",
-      "symbol": "DAIK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x21cde7e32a6caf4742d00d44b07279e7596d26b9.png"
-    },{
-      "name": "SFGK Token",
-      "address": "0x3212606f74cc59656e1ec6f587fca61ba3b85eb0",
-      "symbol": "SFGK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x3212606f74cc59656e1ec6f587fca61ba3b85eb0.png"
-    },{
-      "name": "AUCTIONK Token",
-      "address": "0x77df6ebec3316792d4ea5bc0f8286c27905aa8e8",
-      "symbol": "AUCTIONK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x77df6ebec3316792d4ea5bc0f8286c27905aa8e8.png"
-    },{
-      "name": "ZKSK Token",
-      "address": "0xcd08d321f6bc10a10f094e4b2e6c9b8bf9906401",
-      "symbol": "ZKSK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0xcd08d321f6bc10a10f094e4b2e6c9b8bf9906401.png"
-    },{
-      "name": "UNIK Token",
-      "address": "0x59d226bb0a4d74274d4354ebb6a0e1a1aa5175b6",
-      "symbol": "UNIK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x59d226bb0a4d74274d4354ebb6a0e1a1aa5175b6.png"
-    },{
-      "name": "SUSHIK Token",
-      "address": "0x2218e0d5e0173769f5b4939a3ae423f7e5e4eab7",
-      "symbol": "SUSHIK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x2218e0d5e0173769f5b4939a3ae423f7e5e4eab7.png"
-    },{
-      "name": "LINKK Token",
-      "address": "0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d",
-      "symbol": "LINKK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0xbeb67de6cc5af652b2d9b0235750ed70f5a2cb0d.png"
-    },{
-      "name": "USDK Token",
-      "address": "0xdcac52e001f5bd413aa6ea83956438f29098166b",
-      "symbol": "USDK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0xdcac52e001f5bd413aa6ea83956438f29098166b.png"
-    },{
-      "name": "USDT Token",
-      "address": "0x382bb369d343125bfb2117af9c149795c6c65c50",
-      "symbol": "USDT",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x382bb369d343125bfb2117af9c149795c6c65c50.png"
-    },{
-      "name": "USDC Token",
-      "address": "0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85",
-      "symbol": "USDC",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0xc946daf81b08146b1c7a8da2a851ddf2b3eaaf85.png"
-    },{
-      "name": "BTCK Token",
-      "address": "0x54e4622dc504176b3bb432dccaf504569699a7ff",
-      "symbol": "BTCK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x54e4622dc504176b3bb432dccaf504569699a7ff.png"
-    },{
-      "name": "ETHK Token",
-      "address": "0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c",
-      "symbol": "ETHK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0xef71ca2ee68f45b9ad6f72fbdb33d707b872315c.png"
-    },{
-      "name": "DOTK Token",
-      "address": "0xabc732f6f69a519f6d508434481376b6221eb7d5",
-      "symbol": "DOTK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0xabc732f6f69a519f6d508434481376b6221eb7d5.png"
-    },{
-      "name": "FILK Token",
-      "address": "0x3f8969be2fc0770dcc174968e4b4ff146e0acdaf",
-      "symbol": "FILK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x3f8969be2fc0770dcc174968e4b4ff146e0acdaf.png"
-    },
-    {
-      "name": "LTCK Token",
-      "address": "0xfa520efc34c81bfc1e3dd48b7fe9ff326049f986",
-      "symbol": "LTCK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0xfa520efc34c81bfc1e3dd48b7fe9ff326049f986.png"
-    },{
-      "name": "WOKT Token",
-      "address": "0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15",
+      "name": "Wrapped OKT",
+      "address": "0x81A11611ED21696481d087dfaCc8cBEc6fd42F2e",
       "symbol": "WOKT",
       "decimals": 18,
       "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x8f8526dbfd6e38e3d8307702ca8469bae6c56c15.png"
-    },{
-      "name": "XRPK Token",
-      "address": "0xa715f624eb32c6c960b0e044b10cde585d5f5984",
-      "symbol": "XRPK",
+      "logoURI": "http://www.htlotto.xyz/swap/src/assets/svg/LTO.svg"
+    },
+    {
+      "chainId": 66,
+      "address": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+      "name": "USDT",
+      "symbol": "USDT",
       "decimals": 18,
+      "logoURI": "http://www.htlotto.xyz/swap/src/assets/svg/USDT.svg"
+    },
+    {
       "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0xa715f624eb32c6c960b0e044b10cde585d5f5984.png"
-    },{
-      "name": "TRXK Token",
-      "address": "0x00505505a7576d6734704fabb16f41924e3e384b",
-      "symbol": "TRXK",
+      "address": "0x511fdf0ea8d24cd19b58c602f8b1d60816f1aaf3",
+      "name": "DSmoon",
+      "symbol": "DSmoon",
       "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x00505505a7576d6734704fabb16f41924e3e384b.png"
-    },{
-      "name": "BCHK Token",
-      "address": "0x18d103b7066aeedb6005b78a462ef9027329b1ea",
-      "symbol": "BCHK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x18d103b7066aeedb6005b78a462ef9027329b1ea.png"
-    },{
-      "name": "ETCK Token",
-      "address": "0x99970778e2715bbc9cf8fb83d10dcbc2d2d551a3",
-      "symbol": "ETCK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x99970778e2715bbc9cf8fb83d10dcbc2d2d551a3.png"
-    },{
-      "name": "SHIBK Token",
-      "address": "0xaa27badaa3c9ec9081b8f6c9cdd2bf375f143780",
-      "symbol": "SHIBK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0xaa27badaa3c9ec9081b8f6c9cdd2bf375f143780.png"
-    },{
-      "name": "WBTCK Token",
-      "address": "0x506f731f7656e2fb34b587b912808f2a7ab640bd",
-      "symbol": "WBTCK",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x506f731f7656e2fb34b587b912808f2a7ab640bd.png"
-    },{
-      "name": "Blade Token",
-      "address": "0xa07403c1bd0c5cf53df07f15faa589241352527b",
-      "symbol": "Blade",
-      "decimals": 18,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0xa07403c1bd0c5cf53df07f15faa589241352527b.png"
-    },{
-      "name": "TokenPocket Token",
-      "address": "0x2cec1c3f71db54c99d6df687d8ac968cce80cc85",
-      "symbol": "TPT",
-      "decimals": 4,
-      "chainId": 66,
-      "logoURI": "https://www.myswap.vip/tokenLogMain/0x2cec1c3f71db54c99d6df687d8ac968cce80cc85.png"
+      "logoURI": "http://www.htlotto.xyz/swap/src/assets/svg/LTO.svg"
     }
-
-
-
-  ]
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
 }
