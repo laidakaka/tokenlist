@@ -1,0 +1,40 @@
+{
+  "name": "DSWAP",
+  "logoURI": "http://www.htlotto.xyz/swap/src/assets/svg/LTO.svg",
+  "keywords": [
+    "DSWAP",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "name": "Wrapped OKT",
+      "address": "0x81A11611ED21696481d087dfaCc8cBEc6fd42F2e",
+      "symbol": "WOKT",
+      "decimals": 18,
+      "chainId": 66,
+      "logoURI": "http://www.htlotto.xyz/swap/src/assets/svg/LTO.svg"
+    },
+    {
+      "chainId": 66,
+      "address": "0x382bb369d343125bfb2117af9c149795c6c65c50",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18,
+      "logoURI": "http://www.htlotto.xyz/swap/src/assets/svg/USDT.svg"
+    },
+    {
+      "chainId": 66,
+      "address": "0x511fdf0ea8d24cd19b58c602f8b1d60816f1aaf3",
+      "name": "DSMOON",
+      "symbol": "DSmoon",
+      "decimals": 9,
+      "logoURI": "http://www.htlotto.xyz/swap/src/assets/svg/LTO.svg"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
