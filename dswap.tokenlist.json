@@ -1,6 +1,6 @@
 {
   "name": "DSWAP",
-  "logoURI": "http://www.htlotto.xyz/swap/src/assets/svg/LTO.svg",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/QmUB63ER21beFkw1ZVP2F4EXbSNePstyhwCaTNJSaNbqD6/dslogo.png",
   "keywords": [
     "DSWAP",
     "defi"
@@ -13,7 +13,7 @@
       "symbol": "WOKT",
       "decimals": 18,
       "chainId": 66,
-      "logoURI": "http://www.htlotto.xyz/swap/src/assets/svg/LTO.svg"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmQaM3kMBWsip8kM5JhxQnL4cyf3jG9aGw4x1GP2YsMqsy/wokt.png"
     },
     {
       "chainId": 66,
@@ -21,7 +21,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "decimals": 18,
-      "logoURI": "http://www.htlotto.xyz/swap/src/assets/svg/USDT.svg"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmRzJxwyEzL8DcScSBRBNcZC4bwtdQMruiS8qpdBQBib25/0x382bb369d343125bfb2117af9c149795c6c65c50.png"
     },
     {
       "chainId": 66,
@@ -29,7 +29,15 @@
       "name": "DSMOON",
       "symbol": "DSmoon",
       "decimals": 9,
-      "logoURI": "http://www.htlotto.xyz/swap/src/assets/svg/LTO.svg"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmetorUXKKFSgn8Lvwri9vU32228mjwgK19HEFEBPZQzuK/dsmoon.png"
+    },
+    {
+      "chainId": 66,
+      "address": "0x17a0b47dc8348f6f456e232e0af7f035f3b161e3",
+      "name": "DSwap Token",
+      "symbol": "DS",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/QmUB63ER21beFkw1ZVP2F4EXbSNePstyhwCaTNJSaNbqD6/dslogo.png"
     }
   ],
   "version": {
