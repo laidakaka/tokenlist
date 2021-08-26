@@ -26,9 +26,9 @@
     {
       "chainId": 66,
       "address": "0x511fdf0ea8d24cd19b58c602f8b1d60816f1aaf3",
-      "name": "DSmoon",
+      "name": "DSMOON",
       "symbol": "DSmoon",
-      "decimals": 36,
+      "decimals": 9,
       "logoURI": "http://www.htlotto.xyz/swap/src/assets/svg/LTO.svg"
     }
   ],
